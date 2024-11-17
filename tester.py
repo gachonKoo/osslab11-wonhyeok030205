@@ -8,4 +8,3 @@ print('c =',c)
 r = 10
 area = utils.circle(10)
 print('area =',area)
-
